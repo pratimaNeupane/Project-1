@@ -168,3 +168,15 @@ button:hover{
   color: black;
 }
 
+.login-page{
+height: 85vh;  
+background: linear-gradient(rgba(222,146,32,0.5),rgb(0, 183, 255));
+margin-top: -48px;
+}
+
+.login-page button:hover{
+background-color: white;
+color: black;
+}
+
+
